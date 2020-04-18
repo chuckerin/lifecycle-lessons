@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/lifecycles-lesson/static/css/main.9fd208fa.chunk.css",
-    "main.js": "/lifecycles-lesson/static/js/main.5188b3b2.chunk.js",
-    "main.js.map": "/lifecycles-lesson/static/js/main.5188b3b2.chunk.js.map",
-    "runtime-main.js": "/lifecycles-lesson/static/js/runtime-main.77dc6acc.js",
-    "runtime-main.js.map": "/lifecycles-lesson/static/js/runtime-main.77dc6acc.js.map",
-    "static/js/2.2b2b90b9.chunk.js": "/lifecycles-lesson/static/js/2.2b2b90b9.chunk.js",
-    "static/js/2.2b2b90b9.chunk.js.map": "/lifecycles-lesson/static/js/2.2b2b90b9.chunk.js.map",
-    "index.html": "/lifecycles-lesson/index.html",
-    "precache-manifest.14cb41ff642330be1fb172fcd8429aaf.js": "/lifecycles-lesson/precache-manifest.14cb41ff642330be1fb172fcd8429aaf.js",
-    "service-worker.js": "/lifecycles-lesson/service-worker.js",
-    "static/css/main.9fd208fa.chunk.css.map": "/lifecycles-lesson/static/css/main.9fd208fa.chunk.css.map",
-    "static/js/2.2b2b90b9.chunk.js.LICENSE.txt": "/lifecycles-lesson/static/js/2.2b2b90b9.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/lifecycles-lesson/static/media/logo.ee7cd8ed.svg"
+    "main.css": "/lifecycle-lesson/static/css/main.9fd208fa.chunk.css",
+    "main.js": "/lifecycle-lesson/static/js/main.a4ed9d7a.chunk.js",
+    "main.js.map": "/lifecycle-lesson/static/js/main.a4ed9d7a.chunk.js.map",
+    "runtime-main.js": "/lifecycle-lesson/static/js/runtime-main.ca9850e6.js",
+    "runtime-main.js.map": "/lifecycle-lesson/static/js/runtime-main.ca9850e6.js.map",
+    "static/js/2.2b2b90b9.chunk.js": "/lifecycle-lesson/static/js/2.2b2b90b9.chunk.js",
+    "static/js/2.2b2b90b9.chunk.js.map": "/lifecycle-lesson/static/js/2.2b2b90b9.chunk.js.map",
+    "index.html": "/lifecycle-lesson/index.html",
+    "precache-manifest.3f8f4d85eeff9fb188b4764f4fcb266c.js": "/lifecycle-lesson/precache-manifest.3f8f4d85eeff9fb188b4764f4fcb266c.js",
+    "service-worker.js": "/lifecycle-lesson/service-worker.js",
+    "static/css/main.9fd208fa.chunk.css.map": "/lifecycle-lesson/static/css/main.9fd208fa.chunk.css.map",
+    "static/js/2.2b2b90b9.chunk.js.LICENSE.txt": "/lifecycle-lesson/static/js/2.2b2b90b9.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/lifecycle-lesson/static/media/logo.ee7cd8ed.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.77dc6acc.js",
+    "static/js/runtime-main.ca9850e6.js",
     "static/js/2.2b2b90b9.chunk.js",
     "static/css/main.9fd208fa.chunk.css",
-    "static/js/main.5188b3b2.chunk.js"
+    "static/js/main.a4ed9d7a.chunk.js"
   ]
 }
