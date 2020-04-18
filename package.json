@@ -2,7 +2,7 @@
   "name": "test",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://chuckerin.github.io/lifecycle-lesson",
+  "homepage": "https://chuckerin.github.io/lifecycle-lessons",
   "dependencies": {
     "node-fetch": "2.6.0",
     "react": "^16.8.6",
